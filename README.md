@@ -17,5 +17,5 @@
 
 <p align="">
    <img src="./img/t2m1.png" width="270" height= 220/>
-   <img src="./img/t2m1.png" width="270" height= 220/>   
+   <img src="./img/t2m2.png" width="270" height= 220/>   
 </p>
