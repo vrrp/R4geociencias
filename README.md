@@ -1,4 +1,5 @@
 # R para Geociencias: Aplicado a la hidrología 
+### Por: Víctor Rojas
 
 * [01 Introduction]
 * [02 Tipo de variables](https://github.com/vrrp/R4geociencias/blob/master/2-Tipo_variables.ipynb)
